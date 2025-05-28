@@ -71,12 +71,6 @@ There are subdirectories inside each folder that are named after the correspondi
 
 ---
 
-## 📊 Sample CT Scan
-
-![sample](assets/sample_ct.png)
-
----
-
 ## 🚀 Future Improvements
 - Add Grad-CAM visualizations for model explainability.
 - Hyperparameter optimization
