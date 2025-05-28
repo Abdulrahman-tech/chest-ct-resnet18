@@ -58,10 +58,10 @@ There are subdirectories inside each folder that are named after the correspondi
 
 | Metric        | Value      |
 |---------------|------------|
-| Train Accuracy| **98.53%** |
-| Test Accuracy | **88.97%** |
-| Train Loss    | 0.0289     |
-| Test Loss     | 0.3646     |
+| Train Accuracy| **99.53%** |
+| Test Accuracy | **89.14%** |
+| Train Loss    | 0.0231     |
+| Test Loss     | 0.3442     |
 
 ✅ Indicates strong generalization with some room for further validation improvements.
 
