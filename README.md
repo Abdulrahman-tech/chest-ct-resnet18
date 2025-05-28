@@ -50,7 +50,11 @@ There are subdirectories inside each folder that are named after the correspondi
 - **Modifications**:
   - Replaced the final fully connected layer with a custom classifier.
   - All layers unfrozen for **full fine-tuning**.
+  - Model Interpretability:
+  - Add Grad-CAM or Integrated Gradients to visualize what the model is focusing on.
+  - Help doctors understand why a prediction was made.
   - Data augmentations applied using `torchvision.transforms`.
+  - Advanced Augmentation: Include CutMix, MixUp, or AutoAugment to improve robustness to variations in CT images
 
 ---
 
